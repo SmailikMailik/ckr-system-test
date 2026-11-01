@@ -1,0 +1,13 @@
+{
+  "name": "Project.User.Storage",
+  "rootNamespace": "Project.User.Storage",
+  "references": [
+    "Project.User",
+    "Project.Common"
+  ],
+  "noEngineReferences": true,
+  "overrideReferences": true,
+  "precompiledReferences": [
+    "Newtonsoft.Json.dll"
+  ]
+}

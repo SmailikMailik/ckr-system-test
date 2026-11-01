@@ -1,0 +1,13 @@
+{
+  "name": "Project.Features.Breeds",
+  "rootNamespace": "Project.Features.Breeds",
+  "references": [
+    "Project.Data",
+    "Project.UI",
+    "Zenject"
+  ],
+  "overrideReferences": true,
+  "precompiledReferences": [
+    "Zenject-usage.dll"
+  ]
+}

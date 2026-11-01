@@ -1,0 +1,23 @@
+{
+  "name": "Project.Runtime",
+  "rootNamespace": "Project.Runtime",
+  "references": [
+    "Project.Features.Clicker",
+    "Project.Features.Weather",
+    "Project.Features.Breeds",
+    "Project.Networking",
+    "Project.UI",
+    "Zenject",
+    "R3.Unity",
+    "Project.Data",
+    "Project.Data.Remote",
+    "Project.Data.ScriptableObjects",
+    "Project.User",
+    "Project.User.Storage"
+  ],
+  "overrideReferences": true,
+  "precompiledReferences": [
+    "R3.dll",
+    "Zenject-usage.dll"
+  ]
+}

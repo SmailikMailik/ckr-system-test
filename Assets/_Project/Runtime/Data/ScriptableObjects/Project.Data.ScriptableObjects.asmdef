@@ -1,0 +1,10 @@
+{
+  "name": "Project.Data.ScriptableObjects",
+  "rootNamespace": "Project.Data.ScriptableObjects",
+  "references": [
+    "Project.Data",
+    "Project.User"
+  ],
+  "overrideReferences": true,
+  "precompiledReferences": []
+}

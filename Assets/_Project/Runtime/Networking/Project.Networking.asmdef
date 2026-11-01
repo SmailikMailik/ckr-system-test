@@ -1,0 +1,12 @@
+{
+  "name": "Project.Networking",
+  "rootNamespace": "Project.Networking",
+  "references": [
+    "Zenject",
+    "Project.Common"
+  ],
+  "overrideReferences": true,
+  "precompiledReferences": [
+    "Zenject-usage.dll"
+  ]
+}

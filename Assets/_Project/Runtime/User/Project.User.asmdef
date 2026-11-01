@@ -1,0 +1,10 @@
+{
+  "name": "Project.User",
+  "rootNamespace": "Project.User",
+  "references": [
+    "Project.Common"
+  ],
+  "noEngineReferences": true,
+  "overrideReferences": true,
+  "precompiledReferences": []
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Project.Features.Weather",
+  "rootNamespace": "Project.Features.Weather",
+  "references": [
+    "Project.Data",
+    "Project.UI",
+    "Project.Common",
+    "Zenject"
+  ],
+  "overrideReferences": true,
+  "precompiledReferences": [
+    "Zenject-usage.dll"
+  ]
+}

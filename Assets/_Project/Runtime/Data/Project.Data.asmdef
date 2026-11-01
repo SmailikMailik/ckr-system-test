@@ -1,0 +1,10 @@
+{
+  "name": "Project.Data",
+  "rootNamespace": "Project.Data",
+  "references": [
+    "Project.Common"
+  ],
+  "overrideReferences": true,
+  "precompiledReferences": [],
+  "noEngineReferences": true
+}

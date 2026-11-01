@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e614cade93de0784a47b679cd53c06fb, type: 3}
+  m_Name: WeatherIcons
+  m_EditorClassIdentifier: Project.UI::Project.UI.Settings.WeatherIconCatalog
+  _fallback: {fileID: 21300000, guid: d5e696c5bf393034abd259fd6161b484, type: 3}
+  _entries:
+  - _code: Blizzard
+    _sprite: {fileID: 21300000, guid: 7de0095c64d05dff82d75aeb478dd4ff, type: 3}
+  - _code: ClearDay
+    _sprite: {fileID: 21300000, guid: f60b1324722b12c46bf2c5ffe9f45040, type: 3}
+  - _code: ClearNight
+    _sprite: {fileID: 21300000, guid: 5b2045d0fd99a1049bc23fcaa3520475, type: 3}
+  - _code: Cloudy
+    _sprite: {fileID: 21300000, guid: 70941f807a471ce4791ec1c69d59f8be, type: 3}
+  - _code: Cold
+    _sprite: {fileID: 21300000, guid: 03f8ee58f41f541f997cccb549561f8b, type: 3}
+  - _code: Dust
+    _sprite: {fileID: 21300000, guid: 774febdd74675196b5bb55280fd1a625, type: 3}
+  - _code: Fog
+    _sprite: {fileID: 21300000, guid: 0bf9b8d067ae49f4ab74a838ec1965bc, type: 3}
+  - _code: FreezingRain
+    _sprite: {fileID: 21300000, guid: 84015de7d09956009541b854cb6e5c98, type: 3}
+  - _code: Haze
+    _sprite: {fileID: 21300000, guid: 8ce24e51adb35c24a9f7adee065e9cdb, type: 3}
+  - _code: Hot
+    _sprite: {fileID: 21300000, guid: 60251de47f345220b05b3955e2d7f5ee, type: 3}
+  - _code: Hurricane
+    _sprite: {fileID: 21300000, guid: 1f7b7393dae156d596ea80405d008979, type: 3}
+  - _code: MostlyCloudyDay
+    _sprite: {fileID: 21300000, guid: 6c9ae3efa08f5d798f3204edc00edf3a, type: 3}
+  - _code: MostlyCloudyNight
+    _sprite: {fileID: 21300000, guid: 68e6400f370c50e4a3a5c52ee44abf4a, type: 3}
+  - _code: PartlyCloudyDay
+    _sprite: {fileID: 21300000, guid: 9983862e9be60c640b01064139257830, type: 3}
+  - _code: PartlyCloudyNight
+    _sprite: {fileID: 21300000, guid: 051d4bf68b8dea84988bf10328a11cc9, type: 3}
+  - _code: Rain
+    _sprite: {fileID: 21300000, guid: f7e8463db899e294ab573f8c16f31352, type: 3}
+  - _code: RainSleet
+    _sprite: {fileID: 21300000, guid: 93ade838c21255bbadae463967181b56, type: 3}
+  - _code: RainSnow
+    _sprite: {fileID: 21300000, guid: 32defa70f281578782e138e90e06bc03, type: 3}
+  - _code: ShowersDay
+    _sprite: {fileID: 21300000, guid: 6ca066f53c6356de8f7f5520bc43e93c, type: 3}
+  - _code: ShowersNight
+    _sprite: {fileID: 21300000, guid: 581de0ecb1745643acd2fc1ef83cfda0, type: 3}
+  - _code: Sleet
+    _sprite: {fileID: 21300000, guid: ff287e107cc8360428eb5260c4e62443, type: 3}
+  - _code: Smoke
+    _sprite: {fileID: 21300000, guid: cd6e95985042543396083a116d65f4ea, type: 3}
+  - _code: Snow
+    _sprite: {fileID: 21300000, guid: 4278aa881029ef84a8627f3ea25fc323, type: 3}
+  - _code: SnowFreezingRain
+    _sprite: {fileID: 21300000, guid: 57ab7b42482456aeb17a2448841f0649, type: 3}
+  - _code: SnowSleet
+    _sprite: {fileID: 21300000, guid: 65a65fdb900d5f4298e0af7d996bacd1, type: 3}
+  - _code: Thunderstorm
+    _sprite: {fileID: 21300000, guid: 074ec58a70b132147bbdacaa65a3363b, type: 3}
+  - _code: Tornado
+    _sprite: {fileID: 21300000, guid: bb04c22427d85e31a9f5aaafff2fbd51, type: 3}
+  - _code: TropicalStorm
+    _sprite: {fileID: 21300000, guid: 52d99d31f754537fb86a374a744420a4, type: 3}
+  - _code: UnknownWeather
+    _sprite: {fileID: 21300000, guid: d5e696c5bf393034abd259fd6161b484, type: 3}
+  - _code: Wind
+    _sprite: {fileID: 21300000, guid: b0b1c1992edfc8c41b2a2f479bf21731, type: 3}

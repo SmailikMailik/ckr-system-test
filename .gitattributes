@@ -1,0 +1,16 @@
+* text=auto eol=lf
+*.png -text
+*.jpg -text
+*.jpeg -text
+*.ttf -text
+*.dll -text
+*.pdf -text
+*.wav -text
+*.unity whitespace=-blank-at-eol
+*.prefab whitespace=-blank-at-eol
+*.asset whitespace=-blank-at-eol
+*.mat whitespace=-blank-at-eol
+*.meta whitespace=-blank-at-eol
+Assets/ThirdParty/** -text -whitespace
+Packages/com.cysharp.r3/** -text -whitespace
+Packages/com.svermeulen.extenject/** -text -whitespace

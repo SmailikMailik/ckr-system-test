@@ -1,0 +1,15 @@
+{
+  "name": "Project.Features.Clicker",
+  "rootNamespace": "Project.Features.Clicker",
+  "references": [
+    "Project.Data",
+    "Project.UI",
+    "Project.User",
+    "Project.Common",
+    "Zenject"
+  ],
+  "overrideReferences": true,
+  "precompiledReferences": [
+    "Zenject-usage.dll"
+  ]
+}

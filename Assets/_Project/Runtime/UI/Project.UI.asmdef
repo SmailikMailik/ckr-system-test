@@ -1,0 +1,14 @@
+{
+  "name": "Project.UI",
+  "rootNamespace": "Project.UI",
+  "references": [
+    "Project.Common",
+    "DOTween.Modules",
+    "Unity.TextMeshPro",
+    "UnityEngine.UI"
+  ],
+  "overrideReferences": true,
+  "precompiledReferences": [
+    "DOTween.dll"
+  ]
+}

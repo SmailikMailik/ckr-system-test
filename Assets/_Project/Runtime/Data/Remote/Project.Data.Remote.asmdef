@@ -1,0 +1,15 @@
+{
+  "name": "Project.Data.Remote",
+  "rootNamespace": "Project.Data.Remote",
+  "references": [
+    "Project.Data",
+    "Project.Networking",
+    "Project.Common",
+    "Zenject"
+  ],
+  "overrideReferences": true,
+  "precompiledReferences": [
+    "Newtonsoft.Json.dll",
+    "Zenject-usage.dll"
+  ]
+}
